@@ -23,11 +23,21 @@ _Objetivos Específicos_
 
 ![](img/marco.jpg)
 
-3. LISTA DE COMPONENTES
+3.DIAGRAMAS
+
+_Diagrama 1:_
+
+![](img/diagrama1.jpg)
+
+_Diagrama 2:_
+
+![](img/diagrama2.jpg)
+
+4.LISTA DE COMPONENTES
 
 ![](img/componentes.jpg)
 
-5. EXPLICACIÓN 
+5.EXPLICACIÓN 
 
 
 6. CONCLUSIONES:
