@@ -111,15 +111,13 @@ Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en
 
 6.CONCLUSIONES:
 
-•	Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc).  
+•	AL observar los valores de la tablas se puede determinar que los valores pico, voltaje rms y la corriente  son 0 cuando la frecuencia de la fuente de voltaje tiene un valor de 0, esto se debe al comportamiento de reactancias y capacitancia en corriente directa.
 
-• Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos. 
- 
-• El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
- 
-• Mientras mayor sea la frecuencia la impedancia capacitiva será menor. 
- 
-• Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
+• 
+
+• 
+
+• 
 
  
 7.BIBLIOGRAFÍA
