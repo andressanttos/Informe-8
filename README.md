@@ -67,6 +67,22 @@ Circuito armado en MULTISIM conectado al amperimetro para determinar la corrient
 
 ![](https://github.com/andressanttos/Informe-8/blob/main/img/circuito2.2.png)
 
+•	Análisis de resultados
+
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
+diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+Tabla Figura 1
+
+![](https://github.com/andressanttos/Informe-8/blob/main/img/tabla1.png)
+
+![](https://github.com/andressanttos/Informe-8/blob/main/img/tabla2.png)
+
+Se puede observar en las tablas que los valores recolectados que los datos son inversamente proporcionales ya que en el circuito con capacitancias  se puede ver que el voltaje  pico y el voltaje rms decrecen y que además la corriente va en aumento, por otro lado en el circuito resistivo el voltaje pico y el voltaje rms  crecen cada vez que se aumenta la frecuencia  y que la corriente  va disminuyendo cada vez que se aumenta la frecuencia.
+
+
+
 6. CONCLUSIONES:
 
 •	
