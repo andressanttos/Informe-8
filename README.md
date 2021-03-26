@@ -125,4 +125,7 @@ Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en
 
 • .Cazar, M. (2019, 18 febrero). Comportamiento de una bobina en corriente continua y en corriente alterna. Prezi.Com. https://prezi.com/p/ofvyyubqitlz/comportamiento-de-una-bobina-en-corriente-continua-y-en-corriente-alterna/?frame=d00d5b29b8e7fd597b45960609c0e460377e46ea
 
+*Bobinas [Witronica]. (2019, 25 enero). Witronica. http://witronica.com/componentes:bobina
+
 • Morales, J. A. R. (2020, 31 agosto). Funcionamiento del condensador. PASIÓN ELECTRÓNICA. https://pasionelectronica.com/funcionamiento-del-condensador/
+
