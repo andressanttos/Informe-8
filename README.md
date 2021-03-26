@@ -21,7 +21,9 @@ _Objetivos Específicos_
 
 2.MARCO TEÓRICO
 
-![](img/marco.jpg)
+![](img/marco1.jpg)
+
+![](img/marco1.jpg)
 
 3.DIAGRAMAS
 
@@ -108,7 +110,7 @@ Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión
 
 Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
 
-6. CONCLUSIONES:
+6.CONCLUSIONES:
 
 •	
 
@@ -119,7 +121,7 @@ Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en
 • 
 
  
-7. BIBLIOGRAFÍA
+7.BIBLIOGRAFÍA
 
 • Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
