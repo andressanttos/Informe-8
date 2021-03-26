@@ -21,7 +21,9 @@ _Objetivos Específicos_
 
 2.MARCO TEÓRICO
 
-![](img/marco.jpg)
+![](img/marco1.jpg)
+
+![](img/marco2.jpg)
 
 3.DIAGRAMAS
 
