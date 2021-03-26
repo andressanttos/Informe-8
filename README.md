@@ -5,19 +5,18 @@ Práctica de Laboratorio 8
 
 _Objetivo General_
 
-•  
+• Estudiar los circuitos RC y RL, verificar la relación que tienen los voltajes medidos con el multímetro y el osciloscopio utilizando una fuente de voltaje alterno. Mediante el uso de un simulador de circuitos electrónicos. Escribir los datos adquiridos  en tablas y posteriormente analizar los resultados de acuerdo a la teoría vista en clases.
 
 
 _Objetivos Específicos_
 
-• 
+• Verificar el comportamiento de la bobina y el capacitor en circuitos DC. 
 
-• 
+• Verificar el comportamiento de la bobina y el capacitor en circuitos AC. 
 
-• 
+• Verificar las combinaciones serie y paralelo de bobinas y capacitores. 
 
-• 
-
+• Familiarizarse con el uso de instrumentos de medida.
 
 2.MARCO TEÓRICO
 
@@ -41,7 +40,7 @@ _Diagrama 2:_
 
 5.EXPLICACIÓN 
 
-1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+7.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
 Circuito  armado en MULTISIM conectado el osciloscopio para determinar valores pico
 
