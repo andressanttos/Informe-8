@@ -100,7 +100,8 @@ Se puede observar en las tablas que los valores recolectados que los datos son i
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
-
+Lo único que pasaría en que los valores Vo varíen en función de que tanto se altere el valor de la impedancia.
+Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión en Vo sería menor y si resulta mayor, la caída de tensión en Vo sería mucho mayor.
 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
