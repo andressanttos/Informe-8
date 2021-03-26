@@ -81,6 +81,19 @@ Tabla Figura 1
 
 Se puede observar en las tablas que los valores recolectados que los datos son inversamente proporcionales ya que en el circuito con capacitancias  se puede ver que el voltaje  pico y el voltaje rms decrecen y que además la corriente va en aumento, por otro lado en el circuito resistivo el voltaje pico y el voltaje rms  crecen cada vez que se aumenta la frecuencia  y que la corriente  va disminuyendo cada vez que se aumenta la frecuencia.
 
+•	Preguntas
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+distintos?
+
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
 
 
 6. CONCLUSIONES:
