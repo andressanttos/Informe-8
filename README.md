@@ -23,7 +23,7 @@ _Objetivos Específicos_
 
 ![](img/marco1.jpg)
 
-![](img/marco1.jpg)
+![](img/marco2.jpg)
 
 3.DIAGRAMAS
 
